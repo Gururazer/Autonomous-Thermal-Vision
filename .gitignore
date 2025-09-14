@@ -1,0 +1,26 @@
+# Virtual environments
+venv310/
+venv/
+
+utils/
+diags/
+flask_app/runs/
+flask_app/static/uploads
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Databases
+models.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files (optional)
+.vscode/
+.idea/
