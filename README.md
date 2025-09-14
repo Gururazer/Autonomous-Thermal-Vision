@@ -100,3 +100,15 @@ This project demonstrates:
 
 - **Inference Result 3:** Detection output for example image 3.  
   ![Result 3](visuals/result3.jpeg)
+
+
+## Dataset & Credits
+
+- This project uses the **FLIR Thermal Dataset** for training and evaluation.  
+  - Dataset source: [FLIR Thermal Dataset](https://www.flir.com/oem/adas/adas-dataset-form/)  
+  - **Note:** The dataset is **not included** in this repository due to licensing restrictions. Only trained model outputs and inference results are provided.
+
+- This project leverages **YOLOv8** for human detection and transfer learning.  
+  - Framework source: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)  
+
+Special thanks to **FLIR Systems** for the dataset and **Ultralytics** for the YOLOv8 framework.
