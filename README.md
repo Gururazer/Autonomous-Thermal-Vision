@@ -5,6 +5,12 @@
 A Deep Learning-based system that detects humans in thermal images, specifically designed to improve autonomous vehicle navigation in low-visibility conditions such as night-time, fog, or poor lighting.
 
 ---
+## 🎥 Demo
+
+![Demo GIF](visuals/demo.gif)  
+*Real-time thermal pedestrian detection on a road showing pedestrians being detected with bounding boxes.*
+
+---
 
 ## Problem
 
